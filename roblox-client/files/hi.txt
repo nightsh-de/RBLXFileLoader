@@ -1,0 +1,11 @@
+function a()
+    local module={}
+
+    module.hello=function()
+        print('hi!')
+    end
+    
+    return module
+end
+
+return a()
