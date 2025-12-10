@@ -1,1 +1,0 @@
-return {298149,game.CreatorId,1192,1281}

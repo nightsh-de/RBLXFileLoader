@@ -12,3 +12,7 @@ If anyone finds a use to this, go wild with it or whatever, I quite honestly don
 
 >[!NOTE]
 >Another note here, Might improve this whole thing overtime if I feel like it, just for some sillies or whatever. I'll probably look into more ways you can mess with Roblox using local server.
+
+
+## Small edit here,
+after doing tiniest bit of testing, you can just put scripts on literally anywhere, like github for example and it'd still work (and you wont need to set up a local server).
