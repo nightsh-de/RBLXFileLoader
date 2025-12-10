@@ -7,10 +7,6 @@ This basically was made cause I felt like I needed to know whether its actually 
 If anyone finds a use to this, go wild with it or whatever, I quite honestly dont care lol. Maybe this can be turned into something cool, like a requirement to solve a secret in some game, or stupid- like a part of a backdoor or some other "virus" in a free model.
 
 >[!NOTE]
->Only works from Roblox Studio.
->But might also work from Roblox Player if you use port forwarding, I haven't checked
-
->[!NOTE]
 >Another note here, Might improve this whole thing overtime if I feel like it, just for some sillies or whatever. I'll probably look into more ways you can mess with Roblox using local server.
 
 
